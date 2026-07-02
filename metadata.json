@@ -1,0 +1,6 @@
+{
+  "name": "Narrow AI",
+  "description": "A highly focused, beautiful AI assistant capable of switching between specialized narrow domains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
